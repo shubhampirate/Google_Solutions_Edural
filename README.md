@@ -6,7 +6,7 @@ This project titled "Retire.ai" is a submission for the Retirement Industry AI H
 
 Clone the repository to your local machine using the following command:
 ```bash
-git clone https://github.com/Jenil-Savla/TIAA_Retirement_hackathon.git
+git clone https://github.com/Jenil-Savla/Google_Solutions_Edural.git
 ```
 
 Switch to backend branch
@@ -16,7 +16,7 @@ git checkout backend
 
 Navigate to the project directory:
 ```bash
-cd TIAA_Retirement_hackathon
+cd Google_Solutions_Edural
 ```
 
 Install the dependencies using the following command:
